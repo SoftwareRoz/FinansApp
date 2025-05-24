@@ -31,7 +31,6 @@ Kişisel finans yönetimi için geliştirilen bir React Native mobil uygulama. H
 
 ## 🖼️ Ekran Görüntüleri
 
-> 📌 Anasayfa, Harcama Ekranı, Chatbot ve Grafik ekran görüntüleri buraya eklenebilir.
 > ![FinnApp Anasayfa](https://github.com/user-attachments/assets/c669fdad-cc3d-4b7e-a4b1-6d2e11622aea)
 > ![yatırımlarım](https://github.com/user-attachments/assets/4d0614b9-91a6-404b-9519-d4b533f109af)
 ![chatbot](https://github.com/user-attachments/assets/cd412292-4bab-4cb6-b268-053700fc4e30)
